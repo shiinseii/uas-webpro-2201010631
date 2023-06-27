@@ -1,0 +1,3 @@
+Project ini menggunakan ide dimana kita menggunakan javascript 
+untuk membuat kalkulator dan juga untuk menghitung luas dari bangun datar
+yaitu persegi/persegi panjang, segitiga, dan juga layang-layang. 
